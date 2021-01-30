@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Style_GlobalStateDetails">
+        <item name="android:textSize">18sp</item>
+        <item name="fontFamily">sans-serif-black</item>
+        <item name="android:layout_marginStart">8dp</item>
+        <item name="android:paddingLeft">8dp</item>
+    </style>
+
+
+
+    <style name="Style_GlobalStateDetailsValue">
+        <item name="android:textSize">18sp</item>
+        <item name="fontFamily">sans-serif-black</item>
+        <item name="android:layout_marginEnd">8dp</item>
+        <item name="android:paddingRight">8dp</item>
+        <item name="android:paddingBottom">4dp</item>
+        <item name="android:paddingTop">4dp</item>
+        <item name="android:textColor">@color/orange</item>
+    </style>
+
+    <style name="Style_GlobalStateDetailsView">
+
+    </style>
+</resources>
