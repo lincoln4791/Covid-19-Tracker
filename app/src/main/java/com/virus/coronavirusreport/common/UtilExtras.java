@@ -1,4 +1,4 @@
-package corona.virus.coronavirusreport.common;
+package com.virus.coronavirusreport.common;
 
 public class UtilExtras {
     public static  final String COUNTRY_NAME = "country_name";

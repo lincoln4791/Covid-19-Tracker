@@ -1,4 +1,4 @@
-package corona.virus.coronavirusreport.countryWiseReport;
+package com.virus.coronavirusreport.countryWiseReport;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -15,9 +15,9 @@ import com.android.volley.VolleyError;
 import com.android.volley.toolbox.JsonObjectRequest;
 import com.bumptech.glide.Glide;
 import com.virus.coronavirusreport.R;
-import corona.virus.coronavirusreport.common.MySingletonRequestQueue;
-import corona.virus.coronavirusreport.common.NodeNamesForJasonData;
-import corona.virus.coronavirusreport.common.UtilExtras;
+import com.virus.coronavirusreport.common.MySingletonRequestQueue;
+import com.virus.coronavirusreport.common.NodeNamesForJasonData;
+import com.virus.coronavirusreport.common.UtilExtras;
 
 import org.json.JSONException;
 import org.json.JSONObject;

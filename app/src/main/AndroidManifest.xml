@@ -11,9 +11,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.CoronaVirusReport">
-        <activity android:name="com.virus.coronavirusreport.corona.virus.coronavirusreport.countryWiseReport.CountryWiseReport"></activity>
-        <activity android:name="com.virus.coronavirusreport.corona.virus.coronavirusreport.affectedCountries.AffectedCountries" />
-        <activity android:name="com.virus.coronavirusreport.corona.virus.coronavirusreport.MainActivity">
+        <activity android:name=".countryWiseReport.CountryWiseReport"></activity>
+        <activity android:name=".affectedCountries.AffectedCountries" />
+        <activity android:name="MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

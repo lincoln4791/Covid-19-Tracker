@@ -1,4 +1,4 @@
-package corona.virus.coronavirusreport;
+package com.virus.coronavirusreport;
 
 import android.content.Context;
 

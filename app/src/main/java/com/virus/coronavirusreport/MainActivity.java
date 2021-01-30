@@ -1,4 +1,4 @@
-package corona.virus.coronavirusreport;
+package com.virus.coronavirusreport;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -14,11 +14,10 @@ import com.android.volley.Request;
 import com.android.volley.Response;
 import com.android.volley.VolleyError;
 import com.android.volley.toolbox.JsonObjectRequest;
-import com.virus.coronavirusreport.R;
 
-import corona.virus.coronavirusreport.affectedCountries.AffectedCountries;
-import corona.virus.coronavirusreport.common.MySingletonRequestQueue;
-import corona.virus.coronavirusreport.common.NodeNamesForJasonData;
+import com.virus.coronavirusreport.affectedCountries.AffectedCountries;
+import com.virus.coronavirusreport.common.MySingletonRequestQueue;
+import com.virus.coronavirusreport.common.NodeNamesForJasonData;
 import com.leo.simplearcloader.SimpleArcLoader;
 
 import org.eazegraph.lib.charts.PieChart;

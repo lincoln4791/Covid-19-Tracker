@@ -1,4 +1,4 @@
-package corona.virus.coronavirusreport.affectedCountries;
+package com.virus.coronavirusreport.affectedCountries;
 
 public class AffectedCountriesModel {
     private String flag;

@@ -1,4 +1,4 @@
-package corona.virus.coronavirusreport.common;
+package com.virus.coronavirusreport.common;
 
 public class NodeNamesForJasonData {
     public static final String CASES = "cases";

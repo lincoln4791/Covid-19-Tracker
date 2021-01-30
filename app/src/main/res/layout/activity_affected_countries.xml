@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/backgroundColor"
-    tools:context="corona.virus.coronavirusreport.affectedCountries.AffectedCountries">
+    tools:context="com.virus.coronavirusreport.affectedCountries.AffectedCountries">
 
     <androidx.cardview.widget.CardView
         android:id="@+id/cardView"

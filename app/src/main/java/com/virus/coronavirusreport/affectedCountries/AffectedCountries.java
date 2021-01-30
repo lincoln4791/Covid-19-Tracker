@@ -1,4 +1,4 @@
-package corona.virus.coronavirusreport.affectedCountries;
+package com.virus.coronavirusreport.affectedCountries;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -16,8 +16,8 @@ import com.android.volley.Request;
 import com.android.volley.Response;
 import com.android.volley.VolleyError;
 import com.android.volley.toolbox.JsonArrayRequest;
-import corona.virus.coronavirusreport.common.MySingletonRequestQueue;
-import corona.virus.coronavirusreport.common.NodeNamesForJasonData;
+import com.virus.coronavirusreport.common.MySingletonRequestQueue;
+import com.virus.coronavirusreport.common.NodeNamesForJasonData;
 import com.virus.coronavirusreport.R;
 
 import org.json.JSONArray;

@@ -1,4 +1,4 @@
-package corona.virus.coronavirusreport.affectedCountries;
+package com.virus.coronavirusreport.affectedCountries;
 
 import android.content.Context;
 import android.content.Intent;
@@ -16,8 +16,8 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
 import com.virus.coronavirusreport.R;
-import corona.virus.coronavirusreport.common.UtilExtras;
-import corona.virus.coronavirusreport.countryWiseReport.CountryWiseReport;
+import com.virus.coronavirusreport.common.UtilExtras;
+import com.virus.coronavirusreport.countryWiseReport.CountryWiseReport;
 
 import java.util.ArrayList;
 import java.util.List;
